@@ -136,3 +136,5 @@ write below lines inside .eslintrc file
         ]
     }
 }
+
+<!-- end of README -->
